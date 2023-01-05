@@ -1,0 +1,144 @@
+.main {
+    margin-top: 80px;
+    width: 0; 
+    height: 0; 
+    margin-bottom: 30px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid gray;
+    position: relative;
+    margin-left: 50px;
+    border-radius: 50%;
+}
+
+ .inner{
+    width: 30px;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: 34px;
+    left: -17px;
+    background-color: white;
+    z-index: 2;
+ }
+
+
+.inner2 {
+    width: 25px;
+    height: 25px;
+    border: 2px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: 58px;
+    left: -68px;
+    background-color: white;
+    z-index: 2;
+}
+
+ .inner3{
+    width: 25px;
+    height: 25px;
+    border: 2px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: -19px;
+    left: -17px;
+    background-color: white;
+    z-index: 2;
+ }
+
+ .inner4{
+    width: 25px;
+    height: 25px;
+    border: 2px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: -3px;
+    left: 28px;
+    background-color: white;
+    z-index: 2;
+ }
+ .inner5{
+    width: 25px;
+    height: 25px;
+    border: 2x solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: 42px;
+    left: 44px;
+    background-color: white;
+    z-index: 2;
+ }
+
+ .inner6{
+    width: 25px;
+    height: 25px;
+    border: 2px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: 89px;
+    left: -29px;
+    background-color: white;
+    z-index: 2;
+ }
+
+ .inner7{
+    width: 25px;
+    height: 25px;
+    border: 2px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: 4px;
+    left: -62px;
+    background-color: white;
+    z-index: 2;
+ }
+
+ .inner8{
+    width: 25px;
+    height: 25px;
+    border: 2px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: 81px;
+    left: 20px;
+    background-color: white;
+    z-index: 2;
+ }
+
+.main2 {
+    width: 100px;
+    height: 100px;
+    margin-left: 60px;
+}
+.COGfirst {
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+.COGfirst div:nth-of-type(1) {
+    transform: rotate(45deg);
+}
+.COGfirst div:nth-of-type(2) {
+    transform: rotate(90deg);
+}
+.firstPart {
+  width: 80px;
+  border-radius: 15px;
+  position: absolute;
+  height: 80px;
+  background: grey;
+}
+.firstHole {
+  width: 35px;
+  height: 35px;
+  border-radius: 100%;
+  background: white;
+  position: absolute;
+  margin-top: 24px;
+  margin-left: 22px;
+}
+
+
+       
